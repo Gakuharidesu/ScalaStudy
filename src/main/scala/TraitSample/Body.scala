@@ -1,0 +1,4 @@
+package TraitSample
+
+trait Body {
+}
